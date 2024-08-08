@@ -1,0 +1,55 @@
+* {
+  margin: 20px 0 0 0;
+  padding: 0;
+  background-color: aquamarine;
+  box-sizing: border-box;
+}
+
+img {
+  border-radius: 150px;
+  width: 237px;
+  height: 229px;
+  margin-top: 40px;
+  margin-left: 40px;
+}
+
+h1 {
+  color: red;
+  margin-left: 40px;
+}
+
+h2 {
+  color: red;
+  margin-left: 40px;
+}
+
+li {
+  margin-top: 0;
+  margin-left: 20px;
+}
+
+.wiki {
+  margin-bottom: 40px;
+  margin-left: 40px;
+}
+
+.rodape {
+  background-color: grey;
+  padding: 30px;
+  width: 1920px;
+  height: 67px;
+  margin-top: 195px;
+  text-align: center;
+}
+
+a {
+  margin-left: 40px;
+}
+
+ul {
+  margin-left: 40px;
+}
+
+ol {
+  margin-left: 40px;
+}/*# sourceMappingURL=style.css.map */
